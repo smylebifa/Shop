@@ -36,3 +36,6 @@ D:\Programming\Web\ASP.NET\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Cars\Li
 D:\Programming\Web\ASP.NET\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cs
 D:\Programming\Web\ASP.NET\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.Views.pdb
 D:\Programming\Web\ASP.NET\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CopyComplete
+D:\Programming\Web\ASP.NET\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Programming\Web\ASP.NET\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Programming\Web\ASP.NET\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
